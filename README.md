@@ -5,7 +5,7 @@ LXRobotics P10 DisplayShield
 
 # Image
 
-![LXRobotics P10 DisplayShield](https://www.lxrobotics.com/wp-content/uploads/mz_af_p10_side_small.jpg)
+![LXRobotics P10 DisplayShield](https://raw.githubusercontent.com/lxrobotics/DisplayShield/master/images/displayshield-side-small.jpg)
 
 # Description
 
