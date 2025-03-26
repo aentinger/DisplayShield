@@ -1,13 +1,14 @@
-LXRobotics P10 DisplayShield
-============================
+<a href="https://lxrobotics.com/"><img align="right" src="https://assets.lxrobotics.com/logo-old/lxrobotics.png" width="15%"></a>
+💾 Display Shield
+=================
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-# Image
+# 📸 Image
 
 ![LXRobotics P10 DisplayShield](https://raw.githubusercontent.com/lxrobotics/DisplayShield/master/images/displayshield-side-small.jpg)
 
-# Description
+# 📂 Description
 
 The LXRobotics Display Shield facilitates the easy control of a Liquid Crystal Display's with 4 rows and 20 columns. The control of the display is done via I2C - only two Arduino Pins are required. The contrast of LCD can be adjusted using a rotary potentiometer. A 2-axis joystick with integrated pushbutton can be used as input device. For a quick and easy start, an open source Arduino library with sample programs is available.
 
@@ -27,6 +28,4 @@ The LXRobotics Display Shield facilitates the easy control of a Liquid Crystal D
 * Display Shield Firmwareupdate via Arduino possible
 * Arduino Library with example programs is available on GitHub
 
-# Video
-
-[![VIDEO1](http://img.youtube.com/vi/QAzBaSF0INM/0.jpg)](https://www.youtube.com/watch?v=QAzBaSF0INM "LXRobotics Displayshield")
+# 🎥 [Video](images/display_shield_demo.mp4)
