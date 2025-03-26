@@ -6,7 +6,7 @@
 
 # 📸 Image
 
-![LXRobotics P10 DisplayShield](https://raw.githubusercontent.com/lxrobotics/DisplayShield/master/images/displayshield-side-small.jpg)
+![LXRobotics P10 DisplayShield](images/displayshield-side-small.jpg)
 
 # 📂 Description
 
